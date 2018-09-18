@@ -1,0 +1,7 @@
+C:\Users\kasper\Desktop\Visual studio\DecisionConstructs\DecisionConstructs\bin\Debug\DecisionConstructs.exe.config
+C:\Users\kasper\Desktop\Visual studio\DecisionConstructs\DecisionConstructs\bin\Debug\DecisionConstructs.exe
+C:\Users\kasper\Desktop\Visual studio\DecisionConstructs\DecisionConstructs\bin\Debug\DecisionConstructs.pdb
+C:\Users\kasper\Desktop\Visual studio\DecisionConstructs\DecisionConstructs\obj\Debug\DecisionConstructs.csprojAssemblyReference.cache
+C:\Users\kasper\Desktop\Visual studio\DecisionConstructs\DecisionConstructs\obj\Debug\DecisionConstructs.csproj.CoreCompileInputs.cache
+C:\Users\kasper\Desktop\Visual studio\DecisionConstructs\DecisionConstructs\obj\Debug\DecisionConstructs.exe
+C:\Users\kasper\Desktop\Visual studio\DecisionConstructs\DecisionConstructs\obj\Debug\DecisionConstructs.pdb

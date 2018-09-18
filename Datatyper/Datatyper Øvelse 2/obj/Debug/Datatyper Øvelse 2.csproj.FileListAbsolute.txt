@@ -1,0 +1,14 @@
+C:\Users\kasper\Desktop\Visual studio\Datatyper Øvelse 2\Datatyper Øvelse 2\bin\Debug\Datatyper Øvelse 2.exe.config
+C:\Users\kasper\Desktop\Visual studio\Datatyper Øvelse 2\Datatyper Øvelse 2\bin\Debug\Datatyper Øvelse 2.exe
+C:\Users\kasper\Desktop\Visual studio\Datatyper Øvelse 2\Datatyper Øvelse 2\bin\Debug\Datatyper Øvelse 2.pdb
+C:\Users\kasper\Desktop\Visual studio\Datatyper Øvelse 2\Datatyper Øvelse 2\obj\Debug\Datatyper Øvelse 2.csprojAssemblyReference.cache
+C:\Users\kasper\Desktop\Visual studio\Datatyper Øvelse 2\Datatyper Øvelse 2\obj\Debug\Datatyper Øvelse 2.csproj.CoreCompileInputs.cache
+C:\Users\kasper\Desktop\Visual studio\Datatyper Øvelse 2\Datatyper Øvelse 2\obj\Debug\Datatyper Øvelse 2.exe
+C:\Users\kasper\Desktop\Visual studio\Datatyper Øvelse 2\Datatyper Øvelse 2\obj\Debug\Datatyper Øvelse 2.pdb
+C:\Users\kasper\Desktop\Visual studio\Datatyper\Datatyper Øvelse 2\bin\Debug\Datatyper Øvelse 2.exe.config
+C:\Users\kasper\Desktop\Visual studio\Datatyper\Datatyper Øvelse 2\bin\Debug\Datatyper Øvelse 2.exe
+C:\Users\kasper\Desktop\Visual studio\Datatyper\Datatyper Øvelse 2\bin\Debug\Datatyper Øvelse 2.pdb
+C:\Users\kasper\Desktop\Visual studio\Datatyper\Datatyper Øvelse 2\obj\Debug\Datatyper Øvelse 2.csprojAssemblyReference.cache
+C:\Users\kasper\Desktop\Visual studio\Datatyper\Datatyper Øvelse 2\obj\Debug\Datatyper Øvelse 2.csproj.CoreCompileInputs.cache
+C:\Users\kasper\Desktop\Visual studio\Datatyper\Datatyper Øvelse 2\obj\Debug\Datatyper Øvelse 2.exe
+C:\Users\kasper\Desktop\Visual studio\Datatyper\Datatyper Øvelse 2\obj\Debug\Datatyper Øvelse 2.pdb

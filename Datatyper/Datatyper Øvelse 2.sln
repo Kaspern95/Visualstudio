@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datatyper Øvelse 2", "Datatyper Øvelse 2\Datatyper Øvelse 2.csproj", "{BA443724-9004-4C20-BADA-EF531D57822B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA443724-9004-4C20-BADA-EF531D57822B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA443724-9004-4C20-BADA-EF531D57822B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA443724-9004-4C20-BADA-EF531D57822B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA443724-9004-4C20-BADA-EF531D57822B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66BA1D64-C04D-4BDE-BD5D-E7396942FD3B}
+	EndGlobalSection
+EndGlobal

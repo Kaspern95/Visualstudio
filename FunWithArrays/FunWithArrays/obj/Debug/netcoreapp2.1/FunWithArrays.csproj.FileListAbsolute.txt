@@ -1,0 +1,11 @@
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithArrays\FunWithArrays\bin\Debug\netcoreapp2.1\FunWithArrays.deps.json
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithArrays\FunWithArrays\bin\Debug\netcoreapp2.1\FunWithArrays.runtimeconfig.json
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithArrays\FunWithArrays\bin\Debug\netcoreapp2.1\FunWithArrays.runtimeconfig.dev.json
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithArrays\FunWithArrays\bin\Debug\netcoreapp2.1\FunWithArrays.dll
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithArrays\FunWithArrays\bin\Debug\netcoreapp2.1\FunWithArrays.pdb
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithArrays\FunWithArrays\obj\Debug\netcoreapp2.1\FunWithArrays.csprojAssemblyReference.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithArrays\FunWithArrays\obj\Debug\netcoreapp2.1\FunWithArrays.csproj.CoreCompileInputs.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithArrays\FunWithArrays\obj\Debug\netcoreapp2.1\FunWithArrays.AssemblyInfoInputs.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithArrays\FunWithArrays\obj\Debug\netcoreapp2.1\FunWithArrays.AssemblyInfo.cs
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithArrays\FunWithArrays\obj\Debug\netcoreapp2.1\FunWithArrays.dll
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithArrays\FunWithArrays\obj\Debug\netcoreapp2.1\FunWithArrays.pdb

@@ -1,0 +1,11 @@
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithMethods\FunWithMethods\bin\Debug\netcoreapp2.1\FunWithMethods.deps.json
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithMethods\FunWithMethods\bin\Debug\netcoreapp2.1\FunWithMethods.runtimeconfig.json
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithMethods\FunWithMethods\bin\Debug\netcoreapp2.1\FunWithMethods.runtimeconfig.dev.json
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithMethods\FunWithMethods\bin\Debug\netcoreapp2.1\FunWithMethods.dll
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithMethods\FunWithMethods\bin\Debug\netcoreapp2.1\FunWithMethods.pdb
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithMethods\FunWithMethods\obj\Debug\netcoreapp2.1\FunWithMethods.csprojAssemblyReference.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithMethods\FunWithMethods\obj\Debug\netcoreapp2.1\FunWithMethods.csproj.CoreCompileInputs.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithMethods\FunWithMethods\obj\Debug\netcoreapp2.1\FunWithMethods.AssemblyInfoInputs.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithMethods\FunWithMethods\obj\Debug\netcoreapp2.1\FunWithMethods.AssemblyInfo.cs
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithMethods\FunWithMethods\obj\Debug\netcoreapp2.1\FunWithMethods.dll
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithMethods\FunWithMethods\obj\Debug\netcoreapp2.1\FunWithMethods.pdb

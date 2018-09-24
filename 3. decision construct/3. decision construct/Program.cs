@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _3.decision_construct
 {
@@ -79,7 +75,7 @@ namespace _3.decision_construct
             }
             else if (seasonNr == 9 || seasonNr == 10 || seasonNr == 11)
             {
-                Console.WriteLine("Its winter!");
+                Console.WriteLine("Its autumn   !");
             }
             else
             {
@@ -218,6 +214,6 @@ namespace _3.decision_construct
             Console.ReadLine();
         }
 
-        
+
     }
 }

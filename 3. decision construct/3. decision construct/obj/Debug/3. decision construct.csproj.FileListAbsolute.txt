@@ -5,3 +5,10 @@ C:\Users\kasper\Desktop\Visual studio\3. decision construct\3. decision construc
 C:\Users\kasper\Desktop\Visual studio\3. decision construct\3. decision construct\obj\Debug\3. decision construct.csproj.CoreCompileInputs.cache
 C:\Users\kasper\Desktop\Visual studio\3. decision construct\3. decision construct\obj\Debug\_3.decision_construct.exe
 C:\Users\kasper\Desktop\Visual studio\3. decision construct\3. decision construct\obj\Debug\_3.decision_construct.pdb
+C:\Users\kasper\Documents\GitHub\Visualstudio\3. decision construct\3. decision construct\bin\Debug\_3.decision_construct.exe.config
+C:\Users\kasper\Documents\GitHub\Visualstudio\3. decision construct\3. decision construct\bin\Debug\_3.decision_construct.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\3. decision construct\3. decision construct\bin\Debug\_3.decision_construct.pdb
+C:\Users\kasper\Documents\GitHub\Visualstudio\3. decision construct\3. decision construct\obj\Debug\3. decision construct.csprojAssemblyReference.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\3. decision construct\3. decision construct\obj\Debug\3. decision construct.csproj.CoreCompileInputs.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\3. decision construct\3. decision construct\obj\Debug\_3.decision_construct.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\3. decision construct\3. decision construct\obj\Debug\_3.decision_construct.pdb

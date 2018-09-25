@@ -27,10 +27,10 @@ namespace CollectionsLektion1
 
             Console.WriteLine("Opgave 5");
             int[] myArray = new int[5] {10, 20, 30, 40 ,50 };
-            Console.WriteLine(myArray[2]);
-            Console.WriteLine(myArray[4]);
+            Console.WriteLine(myArray[2] +" og "+ myArray[4]);
 
-
+            /*
+            #region 5.1
             Console.WriteLine("Opgave 5.1");
             int tal1;
             int tal2;
@@ -92,13 +92,66 @@ namespace CollectionsLektion1
                 tal5 = int.Parse(Console.ReadLine());
             }
 
+            #endregion
+            */
+            Console.WriteLine("5.1 v2");
             
 
-            
+            int[] mitArray = LavMitArray(5);
+            PrintMitArray(mitArray);
+            PlusAlleIndexer(mitArray);
+            int res = PlusAlleIndexer(mitArray);
+            PrintResultat(res);
+
             Console.ReadLine();
 
             Console.WriteLine("Opgave 5.2");
         }
+        static void PrintResultat(int res)
+        {
+            Console.WriteLine("Dit resultat er: ");
+            Console.WriteLine(res);
+        }
+        static void PrintMitArray(int[] arrayToPrint)
+        {
+            Console.WriteLine(arrayToPrint[0]);
+            Console.WriteLine(arrayToPrint[1]);
+            Console.WriteLine(arrayToPrint[2]);
+            Console.WriteLine(arrayToPrint[3]);
+            Console.WriteLine(arrayToPrint[4]);
+        }
+        static int[] LavMitArray(int size)
+        {
+            int[] localArray;
+            localArray = new int[size];
+            localArray[0] = InputMellemNulOgHundrede();
+            localArray[1] = InputMellemNulOgHundrede();
+            localArray[2] = InputMellemNulOgHundrede();
+            localArray[3] = InputMellemNulOgHundrede();
+            localArray[4] = InputMellemNulOgHundrede();
+            
+            return localArray;
+        }
+        static int PlusAlleIndexer(int[] arrayToAdd)
+        {
+            int resultat = arrayToAdd[0] + arrayToAdd[1] + arrayToAdd[2] + arrayToAdd[3] + arrayToAdd[4];
+            return resultat;
+        }
+        private static int InputMellemNulOgHundrede()
+        {
+            Console.WriteLine("Indtast et tal mellem 1 og 100");
+            int tal1 = int.Parse(Console.ReadLine());
+            if (tal1 >= 1 && tal1 <= 100)
+            {
+                return tal1;
+            }
+            else
+            {
+                Console.WriteLine("Forkert input, 1-100 only");
+                return -1;
+            }
+        }
+
         static int[] LavEtArray(int size)
         {
             int[] testArray = new int[size];

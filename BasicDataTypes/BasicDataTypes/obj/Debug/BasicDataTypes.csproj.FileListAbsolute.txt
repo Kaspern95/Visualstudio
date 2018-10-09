@@ -5,3 +5,10 @@ C:\Users\kasper\Desktop\Visual studio\BasicDataTypes\BasicDataTypes\obj\Debug\Ba
 C:\Users\kasper\Desktop\Visual studio\BasicDataTypes\BasicDataTypes\obj\Debug\BasicDataTypes.csproj.CoreCompileInputs.cache
 C:\Users\kasper\Desktop\Visual studio\BasicDataTypes\BasicDataTypes\obj\Debug\BasicDataTypes.exe
 C:\Users\kasper\Desktop\Visual studio\BasicDataTypes\BasicDataTypes\obj\Debug\BasicDataTypes.pdb
+C:\Users\kasper\Documents\GitHub\Visualstudio\BasicDataTypes\BasicDataTypes\bin\Debug\BasicDataTypes.exe.config
+C:\Users\kasper\Documents\GitHub\Visualstudio\BasicDataTypes\BasicDataTypes\bin\Debug\BasicDataTypes.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\BasicDataTypes\BasicDataTypes\bin\Debug\BasicDataTypes.pdb
+C:\Users\kasper\Documents\GitHub\Visualstudio\BasicDataTypes\BasicDataTypes\obj\Debug\BasicDataTypes.csprojAssemblyReference.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\BasicDataTypes\BasicDataTypes\obj\Debug\BasicDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\BasicDataTypes\BasicDataTypes\obj\Debug\BasicDataTypes.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\BasicDataTypes\BasicDataTypes\obj\Debug\BasicDataTypes.pdb

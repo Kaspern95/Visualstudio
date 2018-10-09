@@ -5,3 +5,10 @@ C:\Users\kasper\Desktop\Visual studio\BasicConsoleIO\BasicConsoleIO\obj\Debug\Ba
 C:\Users\kasper\Desktop\Visual studio\BasicConsoleIO\BasicConsoleIO\obj\Debug\BasicConsoleIO.csproj.CoreCompileInputs.cache
 C:\Users\kasper\Desktop\Visual studio\BasicConsoleIO\BasicConsoleIO\obj\Debug\BasicConsoleIO.exe
 C:\Users\kasper\Desktop\Visual studio\BasicConsoleIO\BasicConsoleIO\obj\Debug\BasicConsoleIO.pdb
+C:\Users\kasper\Documents\GitHub\Visualstudio\BasicConsoleIO\BasicConsoleIO\bin\Debug\BasicConsoleIO.exe.config
+C:\Users\kasper\Documents\GitHub\Visualstudio\BasicConsoleIO\BasicConsoleIO\bin\Debug\BasicConsoleIO.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\BasicConsoleIO\BasicConsoleIO\bin\Debug\BasicConsoleIO.pdb
+C:\Users\kasper\Documents\GitHub\Visualstudio\BasicConsoleIO\BasicConsoleIO\obj\Debug\BasicConsoleIO.csprojAssemblyReference.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\BasicConsoleIO\BasicConsoleIO\obj\Debug\BasicConsoleIO.csproj.CoreCompileInputs.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\BasicConsoleIO\BasicConsoleIO\obj\Debug\BasicConsoleIO.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\BasicConsoleIO\BasicConsoleIO\obj\Debug\BasicConsoleIO.pdb

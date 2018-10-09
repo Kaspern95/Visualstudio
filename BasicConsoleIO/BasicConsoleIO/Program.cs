@@ -13,7 +13,7 @@ namespace BasicConsoleIO
             Console.WriteLine("** Basic Console I/O **");
 
             //DisplayMessage();
-            //FormatNumericalData();
+            FormatNumericalData();
             //GetUserData();
             
             Console.ReadLine();

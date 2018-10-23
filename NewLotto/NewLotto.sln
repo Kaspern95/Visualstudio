@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewLotto", "NewLotto\NewLotto.csproj", "{64DD07E9-6277-4CD3-B13B-A54C108E844C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64DD07E9-6277-4CD3-B13B-A54C108E844C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64DD07E9-6277-4CD3-B13B-A54C108E844C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64DD07E9-6277-4CD3-B13B-A54C108E844C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64DD07E9-6277-4CD3-B13B-A54C108E844C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91F8090B-7730-404E-8091-E67C8D914070}
+	EndGlobalSection
+EndGlobal

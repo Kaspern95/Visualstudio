@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{67D58D55-944A-454C-8927-10CE35EA2A90}</ProjectGuid>
+    <ProjectGuid>{92850144-E99E-4CB5-ADB0-450381F437F3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Opgave_9_OOP</RootNamespace>
-    <AssemblyName>Opgave 9 OOP</AssemblyName>
+    <RootNamespace>Opgave_9_OOP_p2</RootNamespace>
+    <AssemblyName>Opgave 9 OOP p2</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

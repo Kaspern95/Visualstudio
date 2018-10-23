@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{67D58D55-944A-454C-8927-10CE35EA2A90}</ProjectGuid>
+    <ProjectGuid>{64DD07E9-6277-4CD3-B13B-A54C108E844C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Opgave_9_OOP</RootNamespace>
-    <AssemblyName>Opgave 9 OOP</AssemblyName>
+    <RootNamespace>NewLotto</RootNamespace>
+    <AssemblyName>NewLotto</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -45,7 +45,6 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Race.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

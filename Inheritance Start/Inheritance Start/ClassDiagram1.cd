@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Inheritance_Start.Vehicle" Collapsed="true">
+    <Position X="6.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Vehicle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inheritance_Start.MotorCycle">
+    <Position X="6.5" Y="2.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAABAAAAAAAAAAAAAgAAAAAAAEAAAAAA=</HashCode>
+      <FileName>MotorCycle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inheritance_Start.Car" Collapsed="true">
+    <Position X="10.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAQAAAA=</HashCode>
+      <FileName>Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inheritance_Start.Boat" Collapsed="true">
+    <Position X="2.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Boat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inheritance_Start.Suzuki">
+    <Position X="5.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Suzuki.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inheritance_Start.Yamaha">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Yamaha.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inheritance_Start.HarleyDavidson">
+    <Position X="5.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HarleyDavidson.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inheritance_Start.Honda">
+    <Position X="7.5" Y="5.75" Width="1.5" />
+    <InheritanceLine Type="Inheritance_Start.MotorCycle" ManuallyRouted="true">
+      <Path>
+        <Point X="7.25" Y="3.934" />
+        <Point X="7.25" Y="5.661" />
+        <Point X="8.25" Y="5.661" />
+        <Point X="8.25" Y="5.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Honda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inheritance_Start.Audi">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Audi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inheritance_Start.Skoda">
+    <Position X="11.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Skoda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inheritance_Start.BMW">
+    <Position X="9.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BMW.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inheritance_Start.Toyota">
+    <Position X="11.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Toyota.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inheritance_Start.Titanic">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Titanic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inheritance_Start.CruiseShip">
+    <Position X="3.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CruiseShip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inheritance_Start.SpeedBoat">
+    <Position X="1.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SpeedBoat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inheritance_Start.SpaceShip">
+    <Position X="3.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SpaceShip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

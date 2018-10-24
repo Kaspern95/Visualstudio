@@ -17,6 +17,8 @@ namespace Opgave_9_OOP
             Race Orc = new Race("Orc", 10, 2, "Physical", "Nature");
             Race Dwarf = new Race("Dwarf", 10, 3, "Fire", "Water");
             Race Naga = new Race("Naga", 10, 4, "Water", "Physical");
+            Race Player1 = new Race("", 0, 0, "", "");
+            Race Player2 = new Race("", 0, 0, "", "");
 
             for (int i = 0; i < 2; i++)
             {
@@ -32,66 +34,69 @@ namespace Opgave_9_OOP
                 int p2 = Player2Sel(0, p1);
 
                 Console.WriteLine("Lad kampen begynde, spiller 1 starter altid.");
+                Console.WriteLine("Tryk enter for at starte spillet");
+                Console.ReadLine();
                 Console.Clear();
-                //#region p1 charsheet
-                //if (p1 == Elf.number)
-                //{
-                //    int p1Hp = Elf.hp;
-                //    string p1Weakness = Elf.weakness;
-                //}
-                //else if (p1 == Orc.number)
-                //{
-                //    int p1Hp = Orc.hp;
-                //    string p1Weakness = Orc.weakness;
-                //}
-                //else if (p1 == Dwarf.number)
-                //{
-                //    int p1Hp = Dwarf.hp;
-                //    string p1Weakness = Dwarf.weakness;
-                //}
-                //else if (p1 == Naga.number)
-                //{
-                //    int p1Hp = Naga.hp;
-                //    string p1Weakness = Naga.weakness;
-                //}
-                //#endregion
-                //#region p2 charsheet
-                //if (p2 == Elf.number)
-                //{
-                //    int p2Hp = Elf.hp;
-                //    string p2Weakness = Elf.weakness;
-                //}
-                //else if (p2 == Orc.number)
-                //{
-                //    int p2Hp = Orc.hp;
-                //    string p2Weakness = Orc.weakness;
-                //}
-                //else if (p2 == Dwarf.number)
-                //{
-                //    int p2Hp = Dwarf.hp;
-                //    string p2Weakness = Dwarf.weakness;
-                //}
-                //else if (p2 == Naga.number)
-                //{
-                //    int p2Hp = Naga.hp;
-                //    string p2Weakness = Naga.weakness;
-                //}
-                //#endregion
+                #region p1 charsheet
+                if (p1 == Elf.number)
+                {
+                    Player1 = Elf;
+                }
+                else if (p1 == Orc.number)
+                {
+                    Player1 = Orc;
+                }
+                else if (p1 == Dwarf.number)
+                {
+                    Player1 = Dwarf;
+                }
+                else if (p1 == Naga.number)
+                {
+                    Player1 = Naga;
+                }
+                #endregion
+                #region p2 charsheet
+                if (p2 == Elf.number)
+                {
+                    Player2 = Elf;
+                }
+                else if (p2 == Orc.number)
+                {
+                    Player2 = Orc;
+                }
+                else if (p2 == Dwarf.number)
+                {
+                    Player2 = Dwarf;
+                }
+                else if (p2 == Naga.number)
+                {
+                    Player2 = Naga;
+                }
+                #endregion
 
-                Console.WriteLine("Spiller 1 Starter");
-                int p1Hp = 10;
-                int p2Hp = 10;
+                Console.WriteLine("Spiller 1 Starter \n");
+                int p1Hp = Player1.hp;
+                int p2Hp = Player2.hp;
                 do
                 {
 
                     for (int k = 0; k < 1; k++)
                     {
+                        Console.WriteLine("Spiller 1's tur.\n");
                         Console.WriteLine("Vil du anvende angreb 1. eller 2.?");
                         int angreb = int.Parse(Console.ReadLine());
                         if (angreb == 1)
                         {
-                            Console.WriteLine("Du angreb fjenden for 3 skade.");
-                            p2Hp -= 3;
+                            if (Player1.strength == Player2.weakness)
+                            {
+                                Console.WriteLine($"Du angreb fjenden for {3*2} skade.");
+                                p2Hp -= 3 * 2;
+                            }
+                            else
+                            {
+                                Console.WriteLine("Du angreb fjenden for 3 skade.");
+                                p2Hp -= 3;
+                            }
                         } 
                         else if (angreb == 2)
                         {
@@ -106,6 +111,7 @@ namespace Opgave_9_OOP
                     }
                     for (int l = 0; l < 1; l++)
                     {
+                        Console.WriteLine("Spiller 2's tur.\n");
                         Console.WriteLine("Vil du anvende angreb 1. eller 2.?");
                         int angreb = int.Parse(Console.ReadLine());
                         if (angreb == 1)

@@ -24,7 +24,7 @@ namespace FunWithStream
             Deserialize();
             Console.ReadLine();
         }
-
+            
         private static void Deserialize()
         {
             BinaryFormatter bf = new BinaryFormatter();

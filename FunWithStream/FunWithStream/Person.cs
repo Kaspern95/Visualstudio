@@ -27,7 +27,7 @@ namespace FunWithStream
         {
             get { return $"{firstName} {lastName}"; }
         }
-        private int salary;
+        private int salary = 500;
 
         public int Salary
         {

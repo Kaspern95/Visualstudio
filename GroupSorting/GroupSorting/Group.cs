@@ -8,12 +8,11 @@ namespace GroupSorting
 {
     class Group
     {
-        public string name;
-        public int number;
-        public Group(string name, int number)
+        public List<Person> members = new List<Person>();
+        public string Name { get; set; }
+        public Group(string name)
         {
-            this.name = name;
-            this.number = number;
+            Name = name;
         }
     }
 }

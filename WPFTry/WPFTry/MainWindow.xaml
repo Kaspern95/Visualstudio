@@ -1,0 +1,19 @@
+﻿<Window x:Class="WPFTry.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFTry"
+        mc:Ignorable="d"
+        Title="Rock, Paper, Scissor" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Button Name="Rock" HorizontalAlignment="Left" Margin="100,265,0,0" VerticalAlignment="Top" Width="150" Height="40" Content="Rock" Click="Rock_Click"/>
+        <Button Name="Paper" HorizontalAlignment="Left" Margin="300,265,0,0" VerticalAlignment="Top" Width="150" Height="40" Content="Paper" Click="Paper_Click"/>
+        <Button Name="Scissor" HorizontalAlignment="Left" Margin="500,265,0,0" VerticalAlignment="Top" Width="150" Height="40" Content="Scissor" Click="Scissor_Click"/>
+        <Label Name="Output"  Content="Label" HorizontalAlignment="Left" Margin="355,347,0,0" VerticalAlignment="Top" RenderTransformOrigin="2.062,0.492"/>
+
+    </Grid>
+</Window>

@@ -52,10 +52,12 @@ namespace WPFTry
             aiImage.Source = aiimg;
 
             DisableButtons();
+            
         }
 
         private void Paper_Click(object sender, RoutedEventArgs e)
         {
+            
             string name = "paper";
 
             BitmapImage playerimg = new BitmapImage();

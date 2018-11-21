@@ -49,7 +49,7 @@ namespace ADOStart
             AddParam(cmd, name, "Kommune", SqlDbType.NVarChar);
             AddParam(cmd, population, "Population", SqlDbType.Int);
             cmd.CommandType = CommandType.Text;
-            cmd.CommandText = @"INSERT INTO Person ([name],[age]) VALUES (@Kommune, @Population)";
+            cmd.CommandText = "INSERT INTO Person ([name],[age]) VALUES (@Kommune, @Population)";
             con.Open();
             cmd.ExecuteNonQuery();
             con.Close();

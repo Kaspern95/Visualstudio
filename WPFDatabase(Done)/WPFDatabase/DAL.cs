@@ -18,9 +18,8 @@ namespace WPFDatabase
             cmd.CommandText = $"INSERT INTO Person VALUES (@Name, @Age)";
             cmd.ExecuteNonQuery();
             con.Close();
-
-
         }
+
         public static List<Person> AllPeople()
         {
             SqlConnection con = new SqlConnection("Data Source=.;Initial Catalog=PersonDB; Integrated Security=true;");
@@ -41,40 +40,24 @@ namespace WPFDatabase
 
             return allPeople;
         }
+
         public static void UpdatePerson(string name, int age, string newName, int newAge)
         {
             SqlConnection con = new SqlConnection("Data Source=.;Initial Catalog=PersonDB; Integrated Security=true");
             SqlCommand cmd = new SqlCommand();
+            AddParam(cmd, name, "Name", SqlDbType.NVarChar);
+            AddParam(cmd, newName, "NewName", SqlDbType.NVarChar);
+            AddParam(cmd, age, "Age", SqlDbType.Int);
+            AddParam(cmd, newAge, "NewAge", SqlDbType.Int);
             cmd.Connection = con;
             cmd.CommandType = CommandType.Text;
-            cmd.CommandText = $"UPDATE PERSON SET name = '{newName}', age = {newAge} WHERE name = '{name}' AND age = {age}";
+            cmd.CommandText = $"UPDATE PERSON SET name = @NewName, age = @NewAge WHERE name = @Name AND age = @Age";
             con.Open();
             cmd.ExecuteNonQuery();
             con.Close();
 
         }
-        public static void UpdatePerson(string name, string newName, int newAge)
-        {
-            SqlConnection con = new SqlConnection("Data Source=.;Initial Catalog=PersonDB; Integrated Security=true");
-            SqlCommand cmd = new SqlCommand();
-            cmd.Connection = con;
-            cmd.CommandType = CommandType.Text;
-            cmd.CommandText = $"UPDATE PERSON SET name = '{newName}', age = {newAge} WHERE name = '{name}'";
-            con.Open();
-            cmd.ExecuteNonQuery();
-            con.Close();
-        }
-        public static void UpdatePerson(int age, string newName, int newAge)
-        {
-            SqlConnection con = new SqlConnection("Data Source=.;Initial Catalog=PersonDB; Integrated Security=true");
-            SqlCommand cmd = new SqlCommand();
-            cmd.Connection = con;
-            cmd.CommandType = CommandType.Text;
-            cmd.CommandText = $"UPDATE PERSON SET name = '{newName}', age = {newAge} WHERE age = {age}";
-            con.Open();
-            cmd.ExecuteNonQuery();
-            con.Close();
-        }
+
         public static void DeletePerson(string name, int age)
         {
             SqlConnection con = new SqlConnection("Data Source=.;Initial Catalog=PersonDB;Integrated Security=true;");
@@ -88,6 +71,7 @@ namespace WPFDatabase
             cmd.ExecuteNonQuery();
             con.Close();
         }
+
         public static List<Person> SelectPerson(string name, int age)
         {
             SqlConnection con = new SqlConnection("Data Source=.;Initial Catalog=PersonDB;Integrated Security=true;");
@@ -113,6 +97,7 @@ namespace WPFDatabase
             con.Close();
             return selectPerson;
         }
+
         private static void AddParam(SqlCommand cmd, object value, string name, SqlDbType sqlDbType)
         {
             SqlParameter parameter = new SqlParameter();

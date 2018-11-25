@@ -31,26 +31,33 @@
             <Button Name="Delete" Grid.Row="3" Grid.Column="0" Content="Delete" Margin="0,0,0,0" MaxHeight="80" MinHeight="65" Click="Delete_Click"/>
             <Button Name="Select" Grid.Row="4" Grid.Column="0" Content="Select" Margin="0,0,0,0" MaxHeight="80" MinHeight="65" Click="Select_Click"/>
 
+            <Border Grid.RowSpan="2" Grid.Column="1"  BorderThickness="1" BorderBrush="Black" Margin="3,3,3,3"/>
+
+
+            <Border Grid.Row="3" Grid.RowSpan="2" Grid.Column="1"  BorderThickness="1" BorderBrush="Black" Margin="3,3,3,3"/>
+
+
             <Label Content="Write a name" Grid.Row="0" Grid.Column="1" Margin="5,0,0,0" MinHeight="20" />
             <TextBox Name="TextName" Grid.Row="0" Grid.Column="1" Margin="10,30,177,36" TextWrapping="Wrap" Text="" />
-            <Label Name="NameFail" Content="Invalid input" Grid.Row="0" Grid.Column="1" Margin="5,53,221,5" />
+            <Label Name="NameFail" Content="" Grid.Row="0" Grid.Column="1" Margin="5,53,221,5" Width="200"/>
 
             <Label Content="Write an age" Grid.Row="1" Grid.Column="1" Margin="5,0,0,0" MinHeight="20"/>
             <TextBox Name="TextAge" Grid.Row="1" Grid.Column="1" Margin="10,30,177,36" TextWrapping="Wrap" Text="" />
-            <Label Name="AgeFail" Content="Invalid input" Grid.Row="1" Grid.Column="1" Margin="5,53,221,5" />
+            <Label Name="AgeFail" Content="" Grid.Row="1" Grid.Column="1" Margin="5,53,221,5" />
 
-            <Label Content="Update a name" Grid.Row="2" Grid.Column="1" Margin="5,0,0,0" MinHeight="20"/>
-            <TextBox Name="TextUpdateName" Grid.Row="2" Grid.Column="1" Margin="10,30,177,36" TextWrapping="Wrap" Text="" />
-            <Label Content="Invalid input" Grid.Row="2" Grid.Column="1" Margin="5,53,221,5" />
+            <Label Content="Database Update Status" Grid.Row="2" Grid.Column="1" Margin="5,0,0,0" MinHeight="20"/>
+            <Label Name="DatabaseLB" Content="" Grid.Row="2" Grid.Column="1" Margin="5,30,221,5" />
 
-            <Label Content="Update an age" Grid.Row="3" Grid.Column="1" Margin="5,0,0,0" MinHeight="20"/>
-            <TextBox Name="TextUpdateAge" Grid.Row="3" Grid.Column="1" Margin="10,30,177,36" TextWrapping="Wrap" Text="" />
-            <Label Content="Invalid input" Grid.Row="3" Grid.Column="1" Margin="5,53,221,5" />
+            <Label Content="Update a name" Grid.Row="3" Grid.Column="1" Margin="5,0,0,0" MinHeight="20"/>
+            <TextBox Name="TextUpdateName" Grid.Row="3" Grid.Column="1" Margin="10,30,177,36" TextWrapping="Wrap" Text="" />
+            <Label Name="NameUpdate" Content="" Grid.Row="3" Grid.Column="1" Margin="5,53,221,5" />
+            
+            <Label Content="Update an age" Grid.Row="4" Grid.Column="1" Margin="5,0,0,0" MinHeight="20"/>
+            <TextBox Name="TextUpdateAge" Grid.Row="4" Grid.Column="1" Margin="10,30,177,36" TextWrapping="Wrap" Text="" />
+            <Label Name="AgeUpdate" Content="" Grid.Row="4" Grid.Column="1" Margin="5,53,221,5" />
 
             
 
-            <Label Content="Database Update Status" Grid.Row="4" Grid.Column="1" Margin="5,0,0,0" MinHeight="20"/>
-            <Label Content="Invalid input" Grid.Row="4" Grid.Column="1" Margin="5,30,221,5" />
         </Grid>
     </Viewbox>
 </Window>

@@ -1,0 +1,48 @@
+﻿<Window x:Class="FunWithXaml.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FunWithXaml"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="82*"/>
+            <RowDefinition Height="53*"/>
+            <RowDefinition Height="284*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="124*"/>
+            <ColumnDefinition Width="59*"/>
+            <ColumnDefinition Width="609*"/>
+        </Grid.ColumnDefinitions>
+        <Menu Width="792" Height="19" VerticalAlignment="Top" Grid.ColumnSpan="3">
+            <MenuItem Header="File">
+                <MenuItem Header="Open">
+                    <TabControl VerticalAlignment="Center">
+                        <TabItem Header="item 1">
+                            
+                        </TabItem>
+                        <TabItem Header="item 2">
+                            
+                        </TabItem>
+                    </TabControl>
+                </MenuItem>
+                <MenuItem Header="Save">
+
+                </MenuItem>
+                <StackPanel Orientation="Horizontal" MouseLeftButtonDown="StackPanel_MouseLeftButtonDown">
+                    <Image Source="/Images/pic.png" Width="32"></Image>
+                    <TextBlock Text="Open New Window" TextAlignment="Center" Margin="2,5,5,6"></TextBlock>
+                </StackPanel>
+            </MenuItem>
+        </Menu>
+        <ScrollViewer Grid.Row="1" Grid.Column="1">
+            
+        <TextBlock Name="TBFILL" Text="Hello" TextWrapping="Wrap"></TextBlock>
+        </ScrollViewer>
+        <ListBox Name="LB" Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="100" Margin="58,94,0,0" Grid.Row="2" VerticalAlignment="Top" Width="100"/>
+
+    </Grid>
+</Window>

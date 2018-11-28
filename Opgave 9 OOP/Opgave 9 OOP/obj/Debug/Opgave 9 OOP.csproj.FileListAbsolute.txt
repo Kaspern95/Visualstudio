@@ -1,0 +1,7 @@
+C:\Users\kasper\Documents\GitHub\Visualstudio\Opgave 9 OOP\Opgave 9 OOP\bin\Debug\Opgave 9 OOP.exe.config
+C:\Users\kasper\Documents\GitHub\Visualstudio\Opgave 9 OOP\Opgave 9 OOP\bin\Debug\Opgave 9 OOP.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\Opgave 9 OOP\Opgave 9 OOP\bin\Debug\Opgave 9 OOP.pdb
+C:\Users\kasper\Documents\GitHub\Visualstudio\Opgave 9 OOP\Opgave 9 OOP\obj\Debug\Opgave 9 OOP.csprojAssemblyReference.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\Opgave 9 OOP\Opgave 9 OOP\obj\Debug\Opgave 9 OOP.csproj.CoreCompileInputs.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\Opgave 9 OOP\Opgave 9 OOP\obj\Debug\Opgave 9 OOP.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\Opgave 9 OOP\Opgave 9 OOP\obj\Debug\Opgave 9 OOP.pdb

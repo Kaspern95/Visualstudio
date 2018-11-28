@@ -1,0 +1,7 @@
+C:\Users\kasper\Documents\GitHub\Visualstudio\SimpleClassExample\SimpleClassExample\bin\Debug\SimpleClassExample.exe.config
+C:\Users\kasper\Documents\GitHub\Visualstudio\SimpleClassExample\SimpleClassExample\bin\Debug\SimpleClassExample.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\SimpleClassExample\SimpleClassExample\bin\Debug\SimpleClassExample.pdb
+C:\Users\kasper\Documents\GitHub\Visualstudio\SimpleClassExample\SimpleClassExample\obj\Debug\SimpleClassExample.csprojAssemblyReference.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\SimpleClassExample\SimpleClassExample\obj\Debug\SimpleClassExample.csproj.CoreCompileInputs.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\SimpleClassExample\SimpleClassExample\obj\Debug\SimpleClassExample.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\SimpleClassExample\SimpleClassExample\obj\Debug\SimpleClassExample.pdb

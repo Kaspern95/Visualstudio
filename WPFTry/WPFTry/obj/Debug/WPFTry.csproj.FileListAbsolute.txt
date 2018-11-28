@@ -1,0 +1,15 @@
+C:\Users\kasper\Documents\GitHub\Visualstudio\WPFTry\WPFTry\bin\Debug\WPFTry.exe.config
+C:\Users\kasper\Documents\GitHub\Visualstudio\WPFTry\WPFTry\bin\Debug\WPFTry.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\WPFTry\WPFTry\bin\Debug\WPFTry.pdb
+C:\Users\kasper\Documents\GitHub\Visualstudio\WPFTry\WPFTry\obj\Debug\WPFTry.csprojAssemblyReference.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\WPFTry\WPFTry\obj\Debug\MainWindow.g.cs
+C:\Users\kasper\Documents\GitHub\Visualstudio\WPFTry\WPFTry\obj\Debug\App.g.cs
+C:\Users\kasper\Documents\GitHub\Visualstudio\WPFTry\WPFTry\obj\Debug\WPFTry_MarkupCompile.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\WPFTry\WPFTry\obj\Debug\WPFTry_MarkupCompile.lref
+C:\Users\kasper\Documents\GitHub\Visualstudio\WPFTry\WPFTry\obj\Debug\MainWindow.baml
+C:\Users\kasper\Documents\GitHub\Visualstudio\WPFTry\WPFTry\obj\Debug\WPFTry.g.resources
+C:\Users\kasper\Documents\GitHub\Visualstudio\WPFTry\WPFTry\obj\Debug\WPFTry.Properties.Resources.resources
+C:\Users\kasper\Documents\GitHub\Visualstudio\WPFTry\WPFTry\obj\Debug\WPFTry.csproj.GenerateResource.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\WPFTry\WPFTry\obj\Debug\WPFTry.csproj.CoreCompileInputs.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\WPFTry\WPFTry\obj\Debug\WPFTry.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\WPFTry\WPFTry\obj\Debug\WPFTry.pdb

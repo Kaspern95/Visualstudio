@@ -1,0 +1,15 @@
+C:\Users\kasper\Documents\GitHub\Visualstudio\OFP - OpenFileDialog\OFP - OpenFileDialog\bin\Debug\OFP - OpenFileDialog.exe.config
+C:\Users\kasper\Documents\GitHub\Visualstudio\OFP - OpenFileDialog\OFP - OpenFileDialog\bin\Debug\OFP - OpenFileDialog.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\OFP - OpenFileDialog\OFP - OpenFileDialog\bin\Debug\OFP - OpenFileDialog.pdb
+C:\Users\kasper\Documents\GitHub\Visualstudio\OFP - OpenFileDialog\OFP - OpenFileDialog\obj\Debug\OFP - OpenFileDialog.csprojAssemblyReference.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\OFP - OpenFileDialog\OFP - OpenFileDialog\obj\Debug\MainWindow.g.cs
+C:\Users\kasper\Documents\GitHub\Visualstudio\OFP - OpenFileDialog\OFP - OpenFileDialog\obj\Debug\App.g.cs
+C:\Users\kasper\Documents\GitHub\Visualstudio\OFP - OpenFileDialog\OFP - OpenFileDialog\obj\Debug\OFP - OpenFileDialog_MarkupCompile.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\OFP - OpenFileDialog\OFP - OpenFileDialog\obj\Debug\OFP - OpenFileDialog_MarkupCompile.lref
+C:\Users\kasper\Documents\GitHub\Visualstudio\OFP - OpenFileDialog\OFP - OpenFileDialog\obj\Debug\MainWindow.baml
+C:\Users\kasper\Documents\GitHub\Visualstudio\OFP - OpenFileDialog\OFP - OpenFileDialog\obj\Debug\OFP - OpenFileDialog.g.resources
+C:\Users\kasper\Documents\GitHub\Visualstudio\OFP - OpenFileDialog\OFP - OpenFileDialog\obj\Debug\OFP___OpenFileDialog.Properties.Resources.resources
+C:\Users\kasper\Documents\GitHub\Visualstudio\OFP - OpenFileDialog\OFP - OpenFileDialog\obj\Debug\OFP - OpenFileDialog.csproj.GenerateResource.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\OFP - OpenFileDialog\OFP - OpenFileDialog\obj\Debug\OFP - OpenFileDialog.csproj.CoreCompileInputs.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\OFP - OpenFileDialog\OFP - OpenFileDialog\obj\Debug\OFP - OpenFileDialog.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\OFP - OpenFileDialog\OFP - OpenFileDialog\obj\Debug\OFP - OpenFileDialog.pdb

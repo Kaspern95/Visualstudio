@@ -1,0 +1,7 @@
+C:\Users\kasper\Documents\GitHub\Visualstudio\NewLotto\NewLotto\bin\Debug\NewLotto.exe.config
+C:\Users\kasper\Documents\GitHub\Visualstudio\NewLotto\NewLotto\bin\Debug\NewLotto.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\NewLotto\NewLotto\bin\Debug\NewLotto.pdb
+C:\Users\kasper\Documents\GitHub\Visualstudio\NewLotto\NewLotto\obj\Debug\NewLotto.csprojAssemblyReference.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\NewLotto\NewLotto\obj\Debug\NewLotto.csproj.CoreCompileInputs.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\NewLotto\NewLotto\obj\Debug\NewLotto.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\NewLotto\NewLotto\obj\Debug\NewLotto.pdb

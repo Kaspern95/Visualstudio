@@ -1,0 +1,7 @@
+C:\Users\kasper\Documents\GitHub\Visualstudio\LottoDoWhile\LottoDoWhile\bin\Debug\LottoDoWhile.exe.config
+C:\Users\kasper\Documents\GitHub\Visualstudio\LottoDoWhile\LottoDoWhile\bin\Debug\LottoDoWhile.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\LottoDoWhile\LottoDoWhile\bin\Debug\LottoDoWhile.pdb
+C:\Users\kasper\Documents\GitHub\Visualstudio\LottoDoWhile\LottoDoWhile\obj\Debug\LottoDoWhile.csprojAssemblyReference.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\LottoDoWhile\LottoDoWhile\obj\Debug\LottoDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\LottoDoWhile\LottoDoWhile\obj\Debug\LottoDoWhile.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\LottoDoWhile\LottoDoWhile\obj\Debug\LottoDoWhile.pdb

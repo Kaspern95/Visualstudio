@@ -1,0 +1,7 @@
+C:\Users\kasper\Documents\GitHub\Visualstudio\GroupSorting\GroupSorting\bin\Debug\GroupSorting.exe.config
+C:\Users\kasper\Documents\GitHub\Visualstudio\GroupSorting\GroupSorting\bin\Debug\GroupSorting.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\GroupSorting\GroupSorting\bin\Debug\GroupSorting.pdb
+C:\Users\kasper\Documents\GitHub\Visualstudio\GroupSorting\GroupSorting\obj\Debug\GroupSorting.csprojAssemblyReference.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\GroupSorting\GroupSorting\obj\Debug\GroupSorting.csproj.CoreCompileInputs.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\GroupSorting\GroupSorting\obj\Debug\GroupSorting.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\GroupSorting\GroupSorting\obj\Debug\GroupSorting.pdb

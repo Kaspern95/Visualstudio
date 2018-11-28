@@ -1,0 +1,15 @@
+C:\Users\kasper\Documents\GitHub\Visualstudio\DatabaseWPF\DatabaseWPF\bin\Debug\DatabaseWPF.exe.config
+C:\Users\kasper\Documents\GitHub\Visualstudio\DatabaseWPF\DatabaseWPF\bin\Debug\DatabaseWPF.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\DatabaseWPF\DatabaseWPF\bin\Debug\DatabaseWPF.pdb
+C:\Users\kasper\Documents\GitHub\Visualstudio\DatabaseWPF\DatabaseWPF\obj\Debug\DatabaseWPF.csprojAssemblyReference.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\DatabaseWPF\DatabaseWPF\obj\Debug\MainWindow.g.cs
+C:\Users\kasper\Documents\GitHub\Visualstudio\DatabaseWPF\DatabaseWPF\obj\Debug\App.g.cs
+C:\Users\kasper\Documents\GitHub\Visualstudio\DatabaseWPF\DatabaseWPF\obj\Debug\DatabaseWPF_MarkupCompile.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\DatabaseWPF\DatabaseWPF\obj\Debug\DatabaseWPF_MarkupCompile.lref
+C:\Users\kasper\Documents\GitHub\Visualstudio\DatabaseWPF\DatabaseWPF\obj\Debug\MainWindow.baml
+C:\Users\kasper\Documents\GitHub\Visualstudio\DatabaseWPF\DatabaseWPF\obj\Debug\DatabaseWPF.g.resources
+C:\Users\kasper\Documents\GitHub\Visualstudio\DatabaseWPF\DatabaseWPF\obj\Debug\DatabaseWPF.Properties.Resources.resources
+C:\Users\kasper\Documents\GitHub\Visualstudio\DatabaseWPF\DatabaseWPF\obj\Debug\DatabaseWPF.csproj.GenerateResource.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\DatabaseWPF\DatabaseWPF\obj\Debug\DatabaseWPF.csproj.CoreCompileInputs.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\DatabaseWPF\DatabaseWPF\obj\Debug\DatabaseWPF.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\DatabaseWPF\DatabaseWPF\obj\Debug\DatabaseWPF.pdb

@@ -1,0 +1,7 @@
+C:\Users\kasper\Documents\GitHub\Visualstudio\Opg 11 Classes\Opg 11 Classes\bin\Debug\Opg 11 Classes.exe.config
+C:\Users\kasper\Documents\GitHub\Visualstudio\Opg 11 Classes\Opg 11 Classes\bin\Debug\Opg 11 Classes.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\Opg 11 Classes\Opg 11 Classes\bin\Debug\Opg 11 Classes.pdb
+C:\Users\kasper\Documents\GitHub\Visualstudio\Opg 11 Classes\Opg 11 Classes\obj\Debug\Opg 11 Classes.csprojAssemblyReference.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\Opg 11 Classes\Opg 11 Classes\obj\Debug\Opg 11 Classes.csproj.CoreCompileInputs.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\Opg 11 Classes\Opg 11 Classes\obj\Debug\Opg 11 Classes.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\Opg 11 Classes\Opg 11 Classes\obj\Debug\Opg 11 Classes.pdb

@@ -1,0 +1,15 @@
+C:\Users\kasper\Documents\GitHub\Visualstudio\OpenFileDialog AtHome\OpenFileDialog AtHome\bin\Debug\OpenFileDialog AtHome.exe.config
+C:\Users\kasper\Documents\GitHub\Visualstudio\OpenFileDialog AtHome\OpenFileDialog AtHome\bin\Debug\OpenFileDialog AtHome.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\OpenFileDialog AtHome\OpenFileDialog AtHome\bin\Debug\OpenFileDialog AtHome.pdb
+C:\Users\kasper\Documents\GitHub\Visualstudio\OpenFileDialog AtHome\OpenFileDialog AtHome\obj\Debug\OpenFileDialog AtHome.csprojAssemblyReference.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\OpenFileDialog AtHome\OpenFileDialog AtHome\obj\Debug\MainWindow.g.cs
+C:\Users\kasper\Documents\GitHub\Visualstudio\OpenFileDialog AtHome\OpenFileDialog AtHome\obj\Debug\App.g.cs
+C:\Users\kasper\Documents\GitHub\Visualstudio\OpenFileDialog AtHome\OpenFileDialog AtHome\obj\Debug\OpenFileDialog AtHome_MarkupCompile.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\OpenFileDialog AtHome\OpenFileDialog AtHome\obj\Debug\OpenFileDialog AtHome_MarkupCompile.lref
+C:\Users\kasper\Documents\GitHub\Visualstudio\OpenFileDialog AtHome\OpenFileDialog AtHome\obj\Debug\MainWindow.baml
+C:\Users\kasper\Documents\GitHub\Visualstudio\OpenFileDialog AtHome\OpenFileDialog AtHome\obj\Debug\OpenFileDialog AtHome.g.resources
+C:\Users\kasper\Documents\GitHub\Visualstudio\OpenFileDialog AtHome\OpenFileDialog AtHome\obj\Debug\OpenFileDialog_AtHome.Properties.Resources.resources
+C:\Users\kasper\Documents\GitHub\Visualstudio\OpenFileDialog AtHome\OpenFileDialog AtHome\obj\Debug\OpenFileDialog AtHome.csproj.GenerateResource.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\OpenFileDialog AtHome\OpenFileDialog AtHome\obj\Debug\OpenFileDialog AtHome.csproj.CoreCompileInputs.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\OpenFileDialog AtHome\OpenFileDialog AtHome\obj\Debug\OpenFileDialog AtHome.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\OpenFileDialog AtHome\OpenFileDialog AtHome\obj\Debug\OpenFileDialog AtHome.pdb

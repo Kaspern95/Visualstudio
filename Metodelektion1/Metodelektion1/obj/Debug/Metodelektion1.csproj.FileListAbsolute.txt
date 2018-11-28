@@ -1,0 +1,7 @@
+C:\Users\kasper\Documents\GitHub\Visualstudio\Metodelektion1\Metodelektion1\bin\Debug\Metodelektion1.exe.config
+C:\Users\kasper\Documents\GitHub\Visualstudio\Metodelektion1\Metodelektion1\bin\Debug\Metodelektion1.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\Metodelektion1\Metodelektion1\bin\Debug\Metodelektion1.pdb
+C:\Users\kasper\Documents\GitHub\Visualstudio\Metodelektion1\Metodelektion1\obj\Debug\Metodelektion1.csprojAssemblyReference.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\Metodelektion1\Metodelektion1\obj\Debug\Metodelektion1.csproj.CoreCompileInputs.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\Metodelektion1\Metodelektion1\obj\Debug\Metodelektion1.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\Metodelektion1\Metodelektion1\obj\Debug\Metodelektion1.pdb

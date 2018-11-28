@@ -1,0 +1,7 @@
+C:\Users\kasper\Documents\GitHub\Visualstudio\String manipulation\String manipulation\bin\Debug\String manipulation.exe.config
+C:\Users\kasper\Documents\GitHub\Visualstudio\String manipulation\String manipulation\bin\Debug\String manipulation.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\String manipulation\String manipulation\bin\Debug\String manipulation.pdb
+C:\Users\kasper\Documents\GitHub\Visualstudio\String manipulation\String manipulation\obj\Debug\String manipulation.csprojAssemblyReference.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\String manipulation\String manipulation\obj\Debug\String manipulation.csproj.CoreCompileInputs.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\String manipulation\String manipulation\obj\Debug\String manipulation.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\String manipulation\String manipulation\obj\Debug\String manipulation.pdb

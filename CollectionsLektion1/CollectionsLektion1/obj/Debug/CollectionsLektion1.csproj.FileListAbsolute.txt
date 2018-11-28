@@ -1,0 +1,7 @@
+C:\Users\kasper\Documents\GitHub\Visualstudio\CollectionsLektion1\CollectionsLektion1\bin\Debug\CollectionsLektion1.exe.config
+C:\Users\kasper\Documents\GitHub\Visualstudio\CollectionsLektion1\CollectionsLektion1\bin\Debug\CollectionsLektion1.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\CollectionsLektion1\CollectionsLektion1\bin\Debug\CollectionsLektion1.pdb
+C:\Users\kasper\Documents\GitHub\Visualstudio\CollectionsLektion1\CollectionsLektion1\obj\Debug\CollectionsLektion1.csprojAssemblyReference.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\CollectionsLektion1\CollectionsLektion1\obj\Debug\CollectionsLektion1.csproj.CoreCompileInputs.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\CollectionsLektion1\CollectionsLektion1\obj\Debug\CollectionsLektion1.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\CollectionsLektion1\CollectionsLektion1\obj\Debug\CollectionsLektion1.pdb

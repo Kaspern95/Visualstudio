@@ -1,0 +1,7 @@
+C:\Users\kasper\Documents\GitHub\Visualstudio\LoopOpgaver\LoopOpgaver\obj\Debug\LoopOpgaver.csprojAssemblyReference.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\LoopOpgaver\LoopOpgaver\obj\Debug\LoopOpgaver.csproj.CoreCompileInputs.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\LoopOpgaver\LoopOpgaver\bin\Debug\LoopOpgaver.exe.config
+C:\Users\kasper\Documents\GitHub\Visualstudio\LoopOpgaver\LoopOpgaver\bin\Debug\LoopOpgaver.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\LoopOpgaver\LoopOpgaver\bin\Debug\LoopOpgaver.pdb
+C:\Users\kasper\Documents\GitHub\Visualstudio\LoopOpgaver\LoopOpgaver\obj\Debug\LoopOpgaver.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\LoopOpgaver\LoopOpgaver\obj\Debug\LoopOpgaver.pdb

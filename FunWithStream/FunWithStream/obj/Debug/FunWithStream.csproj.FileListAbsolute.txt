@@ -1,0 +1,7 @@
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithStream\FunWithStream\bin\Debug\FunWithStream.exe.config
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithStream\FunWithStream\bin\Debug\FunWithStream.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithStream\FunWithStream\bin\Debug\FunWithStream.pdb
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithStream\FunWithStream\obj\Debug\FunWithStream.csprojAssemblyReference.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithStream\FunWithStream\obj\Debug\FunWithStream.csproj.CoreCompileInputs.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithStream\FunWithStream\obj\Debug\FunWithStream.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithStream\FunWithStream\obj\Debug\FunWithStream.pdb

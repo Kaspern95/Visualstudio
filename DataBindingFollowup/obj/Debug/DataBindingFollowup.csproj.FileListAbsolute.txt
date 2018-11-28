@@ -1,0 +1,15 @@
+C:\Users\kasper\source\repos\DataBindingFollowup\bin\Debug\DataBindingFollowup.exe.config
+C:\Users\kasper\source\repos\DataBindingFollowup\bin\Debug\DataBindingFollowup.exe
+C:\Users\kasper\source\repos\DataBindingFollowup\bin\Debug\DataBindingFollowup.pdb
+C:\Users\kasper\source\repos\DataBindingFollowup\obj\Debug\DataBindingFollowup.csprojAssemblyReference.cache
+C:\Users\kasper\source\repos\DataBindingFollowup\obj\Debug\MainWindow.g.cs
+C:\Users\kasper\source\repos\DataBindingFollowup\obj\Debug\App.g.cs
+C:\Users\kasper\source\repos\DataBindingFollowup\obj\Debug\DataBindingFollowup_MarkupCompile.cache
+C:\Users\kasper\source\repos\DataBindingFollowup\obj\Debug\DataBindingFollowup_MarkupCompile.lref
+C:\Users\kasper\source\repos\DataBindingFollowup\obj\Debug\MainWindow.baml
+C:\Users\kasper\source\repos\DataBindingFollowup\obj\Debug\DataBindingFollowup.g.resources
+C:\Users\kasper\source\repos\DataBindingFollowup\obj\Debug\DataBindingFollowup.Properties.Resources.resources
+C:\Users\kasper\source\repos\DataBindingFollowup\obj\Debug\DataBindingFollowup.csproj.GenerateResource.cache
+C:\Users\kasper\source\repos\DataBindingFollowup\obj\Debug\DataBindingFollowup.csproj.CoreCompileInputs.cache
+C:\Users\kasper\source\repos\DataBindingFollowup\obj\Debug\DataBindingFollowup.exe
+C:\Users\kasper\source\repos\DataBindingFollowup\obj\Debug\DataBindingFollowup.pdb

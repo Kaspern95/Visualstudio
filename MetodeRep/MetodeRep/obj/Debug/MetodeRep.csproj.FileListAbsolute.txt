@@ -1,0 +1,7 @@
+C:\Users\kasper\Documents\GitHub\Visualstudio\MetodeRep\MetodeRep\obj\Debug\MetodeRep.csprojAssemblyReference.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\MetodeRep\MetodeRep\obj\Debug\MetodeRep.csproj.CoreCompileInputs.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\MetodeRep\MetodeRep\bin\Debug\MetodeRep.exe.config
+C:\Users\kasper\Documents\GitHub\Visualstudio\MetodeRep\MetodeRep\bin\Debug\MetodeRep.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\MetodeRep\MetodeRep\bin\Debug\MetodeRep.pdb
+C:\Users\kasper\Documents\GitHub\Visualstudio\MetodeRep\MetodeRep\obj\Debug\MetodeRep.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\MetodeRep\MetodeRep\obj\Debug\MetodeRep.pdb

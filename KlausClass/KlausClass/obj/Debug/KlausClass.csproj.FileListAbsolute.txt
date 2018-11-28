@@ -1,0 +1,15 @@
+C:\Users\kasper\source\repos\KlausClass\KlausClass\bin\Debug\KlausClass.exe.config
+C:\Users\kasper\source\repos\KlausClass\KlausClass\bin\Debug\KlausClass.exe
+C:\Users\kasper\source\repos\KlausClass\KlausClass\bin\Debug\KlausClass.pdb
+C:\Users\kasper\source\repos\KlausClass\KlausClass\obj\Debug\KlausClass.csprojAssemblyReference.cache
+C:\Users\kasper\source\repos\KlausClass\KlausClass\obj\Debug\MainWindow.g.cs
+C:\Users\kasper\source\repos\KlausClass\KlausClass\obj\Debug\App.g.cs
+C:\Users\kasper\source\repos\KlausClass\KlausClass\obj\Debug\KlausClass_MarkupCompile.cache
+C:\Users\kasper\source\repos\KlausClass\KlausClass\obj\Debug\KlausClass_MarkupCompile.lref
+C:\Users\kasper\source\repos\KlausClass\KlausClass\obj\Debug\MainWindow.baml
+C:\Users\kasper\source\repos\KlausClass\KlausClass\obj\Debug\KlausClass.g.resources
+C:\Users\kasper\source\repos\KlausClass\KlausClass\obj\Debug\KlausClass.Properties.Resources.resources
+C:\Users\kasper\source\repos\KlausClass\KlausClass\obj\Debug\KlausClass.csproj.GenerateResource.cache
+C:\Users\kasper\source\repos\KlausClass\KlausClass\obj\Debug\KlausClass.csproj.CoreCompileInputs.cache
+C:\Users\kasper\source\repos\KlausClass\KlausClass\obj\Debug\KlausClass.exe
+C:\Users\kasper\source\repos\KlausClass\KlausClass\obj\Debug\KlausClass.pdb

@@ -1,0 +1,17 @@
+C:\Users\kasper\Documents\GitHub\Visualstudio\SmartPark\SmartPark\bin\Debug\SmartPark.exe.config
+C:\Users\kasper\Documents\GitHub\Visualstudio\SmartPark\SmartPark\bin\Debug\SmartPark.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\SmartPark\SmartPark\bin\Debug\SmartPark.pdb
+C:\Users\kasper\Documents\GitHub\Visualstudio\SmartPark\SmartPark\obj\Debug\SmartPark.csprojAssemblyReference.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\SmartPark\SmartPark\obj\Debug\Login.g.cs
+C:\Users\kasper\Documents\GitHub\Visualstudio\SmartPark\SmartPark\obj\Debug\MainWindow.g.cs
+C:\Users\kasper\Documents\GitHub\Visualstudio\SmartPark\SmartPark\obj\Debug\App.g.cs
+C:\Users\kasper\Documents\GitHub\Visualstudio\SmartPark\SmartPark\obj\Debug\SmartPark_MarkupCompile.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\SmartPark\SmartPark\obj\Debug\SmartPark_MarkupCompile.lref
+C:\Users\kasper\Documents\GitHub\Visualstudio\SmartPark\SmartPark\obj\Debug\Login.baml
+C:\Users\kasper\Documents\GitHub\Visualstudio\SmartPark\SmartPark\obj\Debug\MainWindow.baml
+C:\Users\kasper\Documents\GitHub\Visualstudio\SmartPark\SmartPark\obj\Debug\SmartPark.g.resources
+C:\Users\kasper\Documents\GitHub\Visualstudio\SmartPark\SmartPark\obj\Debug\SmartPark.Properties.Resources.resources
+C:\Users\kasper\Documents\GitHub\Visualstudio\SmartPark\SmartPark\obj\Debug\SmartPark.csproj.GenerateResource.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\SmartPark\SmartPark\obj\Debug\SmartPark.csproj.CoreCompileInputs.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\SmartPark\SmartPark\obj\Debug\SmartPark.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\SmartPark\SmartPark\obj\Debug\SmartPark.pdb

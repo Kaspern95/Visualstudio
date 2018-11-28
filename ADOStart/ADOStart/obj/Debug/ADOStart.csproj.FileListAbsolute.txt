@@ -1,0 +1,7 @@
+C:\Users\kasper\source\repos\ADOStart\ADOStart\bin\Debug\ADOStart.exe.config
+C:\Users\kasper\source\repos\ADOStart\ADOStart\bin\Debug\ADOStart.exe
+C:\Users\kasper\source\repos\ADOStart\ADOStart\bin\Debug\ADOStart.pdb
+C:\Users\kasper\source\repos\ADOStart\ADOStart\obj\Debug\ADOStart.csprojAssemblyReference.cache
+C:\Users\kasper\source\repos\ADOStart\ADOStart\obj\Debug\ADOStart.csproj.CoreCompileInputs.cache
+C:\Users\kasper\source\repos\ADOStart\ADOStart\obj\Debug\ADOStart.exe
+C:\Users\kasper\source\repos\ADOStart\ADOStart\obj\Debug\ADOStart.pdb

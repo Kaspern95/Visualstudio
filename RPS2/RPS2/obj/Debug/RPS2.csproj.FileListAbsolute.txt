@@ -1,0 +1,15 @@
+C:\Users\kasper\Documents\GitHub\Visualstudio\RPS2\RPS2\bin\Debug\RPS2.exe.config
+C:\Users\kasper\Documents\GitHub\Visualstudio\RPS2\RPS2\bin\Debug\RPS2.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\RPS2\RPS2\bin\Debug\RPS2.pdb
+C:\Users\kasper\Documents\GitHub\Visualstudio\RPS2\RPS2\obj\Debug\RPS2.csprojAssemblyReference.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\RPS2\RPS2\obj\Debug\MainWindow.g.cs
+C:\Users\kasper\Documents\GitHub\Visualstudio\RPS2\RPS2\obj\Debug\App.g.cs
+C:\Users\kasper\Documents\GitHub\Visualstudio\RPS2\RPS2\obj\Debug\RPS2_MarkupCompile.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\RPS2\RPS2\obj\Debug\RPS2_MarkupCompile.lref
+C:\Users\kasper\Documents\GitHub\Visualstudio\RPS2\RPS2\obj\Debug\MainWindow.baml
+C:\Users\kasper\Documents\GitHub\Visualstudio\RPS2\RPS2\obj\Debug\RPS2.g.resources
+C:\Users\kasper\Documents\GitHub\Visualstudio\RPS2\RPS2\obj\Debug\RPS2.Properties.Resources.resources
+C:\Users\kasper\Documents\GitHub\Visualstudio\RPS2\RPS2\obj\Debug\RPS2.csproj.GenerateResource.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\RPS2\RPS2\obj\Debug\RPS2.csproj.CoreCompileInputs.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\RPS2\RPS2\obj\Debug\RPS2.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\RPS2\RPS2\obj\Debug\RPS2.pdb

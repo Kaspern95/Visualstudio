@@ -1,0 +1,7 @@
+C:\Users\kasper\Documents\GitHub\Visualstudio\ArrayExpanded\ArrayExpanded\bin\Debug\ArrayExpanded.exe.config
+C:\Users\kasper\Documents\GitHub\Visualstudio\ArrayExpanded\ArrayExpanded\bin\Debug\ArrayExpanded.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\ArrayExpanded\ArrayExpanded\bin\Debug\ArrayExpanded.pdb
+C:\Users\kasper\Documents\GitHub\Visualstudio\ArrayExpanded\ArrayExpanded\obj\Debug\ArrayExpanded.csprojAssemblyReference.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\ArrayExpanded\ArrayExpanded\obj\Debug\ArrayExpanded.csproj.CoreCompileInputs.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\ArrayExpanded\ArrayExpanded\obj\Debug\ArrayExpanded.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\ArrayExpanded\ArrayExpanded\obj\Debug\ArrayExpanded.pdb

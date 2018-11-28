@@ -1,0 +1,7 @@
+C:\Users\kasper\Documents\GitHub\Visualstudio\ObjectOrientedProgramming OOP\ObjectOrientedProgramming OOP\bin\Debug\ObjectOrientedProgramming OOP.exe.config
+C:\Users\kasper\Documents\GitHub\Visualstudio\ObjectOrientedProgramming OOP\ObjectOrientedProgramming OOP\bin\Debug\ObjectOrientedProgramming OOP.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\ObjectOrientedProgramming OOP\ObjectOrientedProgramming OOP\bin\Debug\ObjectOrientedProgramming OOP.pdb
+C:\Users\kasper\Documents\GitHub\Visualstudio\ObjectOrientedProgramming OOP\ObjectOrientedProgramming OOP\obj\Debug\ObjectOrientedProgramming OOP.csprojAssemblyReference.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\ObjectOrientedProgramming OOP\ObjectOrientedProgramming OOP\obj\Debug\ObjectOrientedProgramming OOP.csproj.CoreCompileInputs.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\ObjectOrientedProgramming OOP\ObjectOrientedProgramming OOP\obj\Debug\ObjectOrientedProgramming OOP.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\ObjectOrientedProgramming OOP\ObjectOrientedProgramming OOP\obj\Debug\ObjectOrientedProgramming OOP.pdb

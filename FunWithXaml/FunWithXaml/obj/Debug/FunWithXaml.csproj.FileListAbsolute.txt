@@ -1,0 +1,17 @@
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithXaml\FunWithXaml\bin\Debug\FunWithXaml.exe.config
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithXaml\FunWithXaml\bin\Debug\FunWithXaml.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithXaml\FunWithXaml\bin\Debug\FunWithXaml.pdb
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithXaml\FunWithXaml\obj\Debug\FunWithXaml.csprojAssemblyReference.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithXaml\FunWithXaml\obj\Debug\MainWindow.g.cs
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithXaml\FunWithXaml\obj\Debug\App.g.cs
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithXaml\FunWithXaml\obj\Debug\FunWithXaml_MarkupCompile.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithXaml\FunWithXaml\obj\Debug\FunWithXaml_MarkupCompile.lref
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithXaml\FunWithXaml\obj\Debug\MainWindow.baml
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithXaml\FunWithXaml\obj\Debug\FunWithXaml.g.resources
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithXaml\FunWithXaml\obj\Debug\FunWithXaml.Properties.Resources.resources
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithXaml\FunWithXaml\obj\Debug\FunWithXaml.csproj.GenerateResource.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithXaml\FunWithXaml\obj\Debug\FunWithXaml.csproj.CoreCompileInputs.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithXaml\FunWithXaml\obj\Debug\FunWithXaml.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithXaml\FunWithXaml\obj\Debug\FunWithXaml.pdb
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithXaml\FunWithXaml\obj\Debug\Window1.g.cs
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithXaml\FunWithXaml\obj\Debug\Window1.baml

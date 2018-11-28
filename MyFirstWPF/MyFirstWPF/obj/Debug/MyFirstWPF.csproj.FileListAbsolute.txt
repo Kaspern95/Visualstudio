@@ -1,0 +1,15 @@
+C:\Users\kasper\Documents\GitHub\Visualstudio\MyFirstWPF\MyFirstWPF\bin\Debug\MyFirstWPF.exe.config
+C:\Users\kasper\Documents\GitHub\Visualstudio\MyFirstWPF\MyFirstWPF\bin\Debug\MyFirstWPF.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\MyFirstWPF\MyFirstWPF\bin\Debug\MyFirstWPF.pdb
+C:\Users\kasper\Documents\GitHub\Visualstudio\MyFirstWPF\MyFirstWPF\obj\Debug\MyFirstWPF.csprojAssemblyReference.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\MyFirstWPF\MyFirstWPF\obj\Debug\MainWindow.g.cs
+C:\Users\kasper\Documents\GitHub\Visualstudio\MyFirstWPF\MyFirstWPF\obj\Debug\App.g.cs
+C:\Users\kasper\Documents\GitHub\Visualstudio\MyFirstWPF\MyFirstWPF\obj\Debug\MyFirstWPF_MarkupCompile.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\MyFirstWPF\MyFirstWPF\obj\Debug\MyFirstWPF_MarkupCompile.lref
+C:\Users\kasper\Documents\GitHub\Visualstudio\MyFirstWPF\MyFirstWPF\obj\Debug\MainWindow.baml
+C:\Users\kasper\Documents\GitHub\Visualstudio\MyFirstWPF\MyFirstWPF\obj\Debug\MyFirstWPF.g.resources
+C:\Users\kasper\Documents\GitHub\Visualstudio\MyFirstWPF\MyFirstWPF\obj\Debug\MyFirstWPF.Properties.Resources.resources
+C:\Users\kasper\Documents\GitHub\Visualstudio\MyFirstWPF\MyFirstWPF\obj\Debug\MyFirstWPF.csproj.GenerateResource.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\MyFirstWPF\MyFirstWPF\obj\Debug\MyFirstWPF.csproj.CoreCompileInputs.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\MyFirstWPF\MyFirstWPF\obj\Debug\MyFirstWPF.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\MyFirstWPF\MyFirstWPF\obj\Debug\MyFirstWPF.pdb

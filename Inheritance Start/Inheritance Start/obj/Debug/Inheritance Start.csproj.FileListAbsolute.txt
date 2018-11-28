@@ -1,0 +1,7 @@
+C:\Users\kasper\Documents\GitHub\Visualstudio\Inheritance Start\Inheritance Start\bin\Debug\Inheritance Start.exe.config
+C:\Users\kasper\Documents\GitHub\Visualstudio\Inheritance Start\Inheritance Start\bin\Debug\Inheritance Start.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\Inheritance Start\Inheritance Start\bin\Debug\Inheritance Start.pdb
+C:\Users\kasper\Documents\GitHub\Visualstudio\Inheritance Start\Inheritance Start\obj\Debug\Inheritance Start.csprojAssemblyReference.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\Inheritance Start\Inheritance Start\obj\Debug\Inheritance Start.csproj.CoreCompileInputs.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\Inheritance Start\Inheritance Start\obj\Debug\Inheritance Start.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\Inheritance Start\Inheritance Start\obj\Debug\Inheritance Start.pdb

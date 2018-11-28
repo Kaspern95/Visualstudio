@@ -1,0 +1,7 @@
+C:\Users\kasper\Documents\GitHub\Visualstudio\StructsIntro\StructsIntro\obj\Debug\StructsIntro.csprojAssemblyReference.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\StructsIntro\StructsIntro\obj\Debug\StructsIntro.csproj.CoreCompileInputs.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\StructsIntro\StructsIntro\bin\Debug\StructsIntro.exe.config
+C:\Users\kasper\Documents\GitHub\Visualstudio\StructsIntro\StructsIntro\bin\Debug\StructsIntro.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\StructsIntro\StructsIntro\bin\Debug\StructsIntro.pdb
+C:\Users\kasper\Documents\GitHub\Visualstudio\StructsIntro\StructsIntro\obj\Debug\StructsIntro.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\StructsIntro\StructsIntro\obj\Debug\StructsIntro.pdb

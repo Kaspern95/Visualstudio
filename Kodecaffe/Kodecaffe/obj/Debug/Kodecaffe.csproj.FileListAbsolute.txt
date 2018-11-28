@@ -1,0 +1,7 @@
+C:\Users\kasper\Documents\GitHub\Visualstudio\Kodecaffe\Kodecaffe\obj\Debug\Kodecaffe.csprojAssemblyReference.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\Kodecaffe\Kodecaffe\obj\Debug\Kodecaffe.csproj.CoreCompileInputs.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\Kodecaffe\Kodecaffe\bin\Debug\Kodecaffe.exe.config
+C:\Users\kasper\Documents\GitHub\Visualstudio\Kodecaffe\Kodecaffe\bin\Debug\Kodecaffe.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\Kodecaffe\Kodecaffe\bin\Debug\Kodecaffe.pdb
+C:\Users\kasper\Documents\GitHub\Visualstudio\Kodecaffe\Kodecaffe\obj\Debug\Kodecaffe.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\Kodecaffe\Kodecaffe\obj\Debug\Kodecaffe.pdb

@@ -1,0 +1,7 @@
+C:\Users\kasper\Documents\GitHub\Visualstudio\LoopsAndEnums\LoopsAndEnums\bin\Debug\LoopsAndEnums.exe.config
+C:\Users\kasper\Documents\GitHub\Visualstudio\LoopsAndEnums\LoopsAndEnums\bin\Debug\LoopsAndEnums.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\LoopsAndEnums\LoopsAndEnums\bin\Debug\LoopsAndEnums.pdb
+C:\Users\kasper\Documents\GitHub\Visualstudio\LoopsAndEnums\LoopsAndEnums\obj\Debug\LoopsAndEnums.csprojAssemblyReference.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\LoopsAndEnums\LoopsAndEnums\obj\Debug\LoopsAndEnums.csproj.CoreCompileInputs.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\LoopsAndEnums\LoopsAndEnums\obj\Debug\LoopsAndEnums.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\LoopsAndEnums\LoopsAndEnums\obj\Debug\LoopsAndEnums.pdb

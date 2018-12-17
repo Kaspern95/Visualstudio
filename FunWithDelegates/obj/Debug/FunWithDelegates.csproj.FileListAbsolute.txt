@@ -1,0 +1,7 @@
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithDelegates\bin\Debug\FunWithDelegates.exe.config
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithDelegates\bin\Debug\FunWithDelegates.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithDelegates\bin\Debug\FunWithDelegates.pdb
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithDelegates\obj\Debug\FunWithDelegates.csprojAssemblyReference.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithDelegates\obj\Debug\FunWithDelegates.csproj.CoreCompileInputs.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithDelegates\obj\Debug\FunWithDelegates.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithDelegates\obj\Debug\FunWithDelegates.pdb

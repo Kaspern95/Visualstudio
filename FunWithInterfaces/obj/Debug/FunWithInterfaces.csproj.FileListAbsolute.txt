@@ -1,0 +1,7 @@
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithInterfaces\bin\Debug\FunWithInterfaces.exe.config
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithInterfaces\bin\Debug\FunWithInterfaces.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithInterfaces\bin\Debug\FunWithInterfaces.pdb
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithInterfaces\obj\Debug\FunWithInterfaces.csprojAssemblyReference.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithInterfaces\obj\Debug\FunWithInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithInterfaces\obj\Debug\FunWithInterfaces.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\FunWithInterfaces\obj\Debug\FunWithInterfaces.pdb

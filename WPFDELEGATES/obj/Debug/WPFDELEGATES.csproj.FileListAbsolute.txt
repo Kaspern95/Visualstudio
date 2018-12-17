@@ -1,0 +1,15 @@
+C:\Users\kasper\Documents\GitHub\Visualstudio\WPFDELEGATES\obj\Debug\WPFDELEGATES.csprojAssemblyReference.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\WPFDELEGATES\obj\Debug\App.g.cs
+C:\Users\kasper\Documents\GitHub\Visualstudio\WPFDELEGATES\obj\Debug\WPFDELEGATES_MarkupCompile.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\WPFDELEGATES\bin\Debug\WPFDELEGATES.exe.config
+C:\Users\kasper\Documents\GitHub\Visualstudio\WPFDELEGATES\bin\Debug\WPFDELEGATES.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\WPFDELEGATES\bin\Debug\WPFDELEGATES.pdb
+C:\Users\kasper\Documents\GitHub\Visualstudio\WPFDELEGATES\obj\Debug\MainWindow.g.cs
+C:\Users\kasper\Documents\GitHub\Visualstudio\WPFDELEGATES\obj\Debug\WPFDELEGATES_MarkupCompile.lref
+C:\Users\kasper\Documents\GitHub\Visualstudio\WPFDELEGATES\obj\Debug\MainWindow.baml
+C:\Users\kasper\Documents\GitHub\Visualstudio\WPFDELEGATES\obj\Debug\WPFDELEGATES.g.resources
+C:\Users\kasper\Documents\GitHub\Visualstudio\WPFDELEGATES\obj\Debug\WPFDELEGATES.Properties.Resources.resources
+C:\Users\kasper\Documents\GitHub\Visualstudio\WPFDELEGATES\obj\Debug\WPFDELEGATES.csproj.GenerateResource.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\WPFDELEGATES\obj\Debug\WPFDELEGATES.csproj.CoreCompileInputs.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\WPFDELEGATES\obj\Debug\WPFDELEGATES.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\WPFDELEGATES\obj\Debug\WPFDELEGATES.pdb

@@ -1,0 +1,7 @@
+C:\Users\kasper\Documents\GitHub\Visualstudio\DelegateAndEventOPG\obj\Debug\DelegateAndEventOPG.csprojAssemblyReference.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\DelegateAndEventOPG\obj\Debug\DelegateAndEventOPG.csproj.CoreCompileInputs.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\DelegateAndEventOPG\bin\Debug\DelegateAndEventOPG.exe.config
+C:\Users\kasper\Documents\GitHub\Visualstudio\DelegateAndEventOPG\bin\Debug\DelegateAndEventOPG.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\DelegateAndEventOPG\bin\Debug\DelegateAndEventOPG.pdb
+C:\Users\kasper\Documents\GitHub\Visualstudio\DelegateAndEventOPG\obj\Debug\DelegateAndEventOPG.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\DelegateAndEventOPG\obj\Debug\DelegateAndEventOPG.pdb

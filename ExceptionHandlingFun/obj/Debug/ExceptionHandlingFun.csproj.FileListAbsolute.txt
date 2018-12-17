@@ -1,0 +1,7 @@
+C:\Users\kasper\Documents\GitHub\Visualstudio\ExceptionHandlingFun\bin\Debug\ExceptionHandlingFun.exe.config
+C:\Users\kasper\Documents\GitHub\Visualstudio\ExceptionHandlingFun\bin\Debug\ExceptionHandlingFun.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\ExceptionHandlingFun\bin\Debug\ExceptionHandlingFun.pdb
+C:\Users\kasper\Documents\GitHub\Visualstudio\ExceptionHandlingFun\obj\Debug\ExceptionHandlingFun.csprojAssemblyReference.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\ExceptionHandlingFun\obj\Debug\ExceptionHandlingFun.csproj.CoreCompileInputs.cache
+C:\Users\kasper\Documents\GitHub\Visualstudio\ExceptionHandlingFun\obj\Debug\ExceptionHandlingFun.exe
+C:\Users\kasper\Documents\GitHub\Visualstudio\ExceptionHandlingFun\obj\Debug\ExceptionHandlingFun.pdb
